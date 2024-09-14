@@ -1,2 +1,2 @@
-# nodejs
-positório criado para estudos de NodeJS com a DIO
+# Node Js
+Repositório criado para estudos de NodeJS com a DIO
