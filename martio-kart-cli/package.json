@@ -1,0 +1,11 @@
+{
+  "name": "martio-kart-cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bruno Costa",
+  "license": "ISC",
+  "description": "Implementação da lógica do jogo de corrida Mario Kart"
+}
